@@ -16,3 +16,16 @@ The moderator will start by introducing the survey process to the participant. A
 ## Survey
 
 Link to survey: https://docs.google.com/forms/d/e/1FAIpQLSdrPF87h-SwBg_Ud0YqoqNGNt5GhtxKxV1CjEyAehxyVZNMiw/viewform?usp=sf_link
+
+## Video
+
+Link to video: https://drive.google.com/file/d/1GhL8yo-IDiT98AsUwvj1rtVXxNX_T1K5/view?usp=sharing
+
+## Reflection
+
+A lot of the thoughts I had following the heuristic evaluation were confirmed during the usability test. 
+
+The most glaring issues the patient pointed out was how cluttered the interface was, how a lot of the concepts were unclear and certain filters lacked specificity. During the first task she was able to navigate to the shop quickly and without error despite having a typo in the name of the store (period at the end). She was also able to find the reviews without any issues. She did have some trouble finding and understanding the return policy, but this is likely due to decisions made on the user side (how the shop owner chose to phrase their words). Additionally the participant had trouble differentiating ads and catered content forms actual search results. WHen looking for the most expensive painting on the site the user had quite a bit of trouble because the top row was ads which had different price ranges than the actual search results. For the second task the participant had trouble with the concept of a shop on Etsy and was unfamiliar with the concept. Once this was explained to her the second task was quite easy for her. She ranked the third task as the hardest, the second as the easiest and the first in the middle. 
+
+Overall I was quite surprised with how much the user struggled with certain tasks. I didn't realize how difficult they were when someone had no experience with a site. It was very enlightening to see how small usability issues can make simple tasks difficult. I didn't want to overwhelm the user with questions so I kept them to a minimum and largely stayed on script. I feel like I learned a lot about Etsy's growth points. A lot of this could come down to simply removing some sections and being more consistent in where you find things. The holiday shop includes items that are also found in other areas on the website which was a point of confusion for the UT participant. Overall I'm happy with how the trial went. If I were to do it again I would change the wording of certain questions to be more specific and I would crop the screenshots used to avoid confusion. 
+
