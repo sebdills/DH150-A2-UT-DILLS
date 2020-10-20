@@ -12,3 +12,7 @@ With these points in mind I will be conducting a usability test to determine to 
 
 The pilot usability test will be conducted in a quiet outdoor space in order to best accommodate COVID-19 guidelines. The moderator (I) and the subject will sit next to each other at a table. I will record the user's screen, voice and face via Zoom as  they complete the survey. 
 The moderator will start by introducing the survey process to the participant. After giving informed consent, we will move on to a pre-test questionnaire which is meant to capture the first impressions the user has of the Etsy website. Following this user will attempt the three tasks while sharing their thoughts out loud. Following the three tests, the survey participant will answer post-test questions about their experiences attempting each task. This will capture the participant's experience and opinions in terms of the site’s ease of use, aesthetic and efficiency. In addition to this it will gauge their opinions on if they would use the site in their own time/incorporate it into their life.  
+
+## Survey
+
+Link to survey: https://docs.google.com/forms/d/e/1FAIpQLSdrPF87h-SwBg_Ud0YqoqNGNt5GhtxKxV1CjEyAehxyVZNMiw/viewform?usp=sf_link
